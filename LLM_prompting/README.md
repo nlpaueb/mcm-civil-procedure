@@ -1,0 +1,1 @@
+Code to prompt a proprietary LLM to generate synthetic MCM or HGE data with an api key.

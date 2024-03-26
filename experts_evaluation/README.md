@@ -1,1 +1,1 @@
-The code provided creates a Google Form automatically from the data in the jsonl file. This is useful for manual evaluation of LLM responses by domain experts.
+The code provided creates a Google Form automatically from the data in the json file with the Google Apps Script platform (the platform can be found here https://www.google.com/script/start/). This is a useful tool for manual evaluation of LLM responses by domain experts.

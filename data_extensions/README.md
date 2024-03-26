@@ -1,0 +1,1 @@
+The original data can be obtained by filling a request form and by contacting Dr. Ivan Habernal and the original repo where you can find all this information is this: https://github.com/trusthlt/legal-argument-reasoning-task#obtaining-the-dataset.
