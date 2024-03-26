@@ -1,0 +1,1 @@
+You are an expert lawyer in the domain of U.S. civil procedure. You are given an introduction to a specific case, a question and an answer to this question. You have to decide if the answer is correct or not. Output the label 'True' if it is correct and 'False' if it is wrong.

@@ -1,0 +1,27 @@
+{
+    "formTitle": "MCM - Sample Form", "formDescription": "This is a sample form.", 
+    "first_section": [
+        {"type": "text", "title": "Name", "required": true}, 
+        {"type": "text", "title": "Email", "required": true, "validation": "email"}, 
+        {"type": "text", "title": "Job", "required": false}, 
+        {"type": "multipleChoice", "title": "Could you please indicate your current status regarding a Bachelor's degree in [DOMAIN]?", 
+        "choices": ["I have already obtained a Bachelor's degree (or higher) in [DOMAIN].", "I am currently pursuing a Bachelor's degree in [DOMAIN].",
+            "I am not currently pursuing a Bachelor's degree in [DOMAIN]."]}, 
+            {"type": "text", "title": "In case you would like to be acknowledged in the paper, please provide the name or designation you would prefer to be mentioned in the Acknowledgements section. If you prefer not to be acknowledged, you may leave this space blank.", "required": false}, 
+            {"type": "description", "title": "General Instructions", "details": "general instructions ..."}
+        ], 
+    "sections": [
+        {"title": "Question 1", "description": "Question:\nYour law or mine? Whitney, a Rhode Island citizen, goes skiing at a ski area in Vermont...", 
+        "fields": [
+            {"type": "multipleChoice", "title": "Does the AI explanation align with the human explanation?", "details": "AI explanation:\n The correct answer is B: the Rhode Island federal district judge would probably apply Vermont law to Whitney's case...", 
+            "choices": ["It aligns.", "It does not align."]}
+            ]
+        }, 
+        {"title": "Question 2", "description": "Question: Wish I had a nickel...", 
+        "fields": [
+            {"type": "multipleChoice", "title": "Does the AI explanation align with the human explanation?", "details": "AI explanation:\n The court has supplemental jurisdiction...", 
+            "choices": ["It aligns.", "It does not align."]}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+The code provided creates a Google Form automatically from the data in the jsonl file. This is useful for manual evaluation of LLM responses by domain experts.
